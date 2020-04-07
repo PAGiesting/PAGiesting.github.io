@@ -1,2 +1,7 @@
-# PAGiesting.github.io
-Dr. G's Github Blog
+# Paul Giesting's Blog
+
+Hosted by Github Pages
+
+Using Jekyll / Poole
+
+Implemented by Andy Miller, Metis
