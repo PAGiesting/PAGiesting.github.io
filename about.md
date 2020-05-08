@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  A bit about me:
-</p>
+A bit about me:
 
 I am a geoscientist, materials scientist, and data scientist. My professional interests center around the beautiful things at the intersection of chemistry, crystal symmetry, quantum physics, and electromagnetics. In addition, I have a strong allergy to redoing work (my own or other people's) and prefer that No Data Be Left Behind.
 
