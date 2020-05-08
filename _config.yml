@@ -22,9 +22,9 @@ author:
   email:             pagiesti@gmail.com
 
 # Custom vars
-version:             
-github:
-  repo:              https://github.com/PAGiesting
+version:
+github:              https://github.com/PAGiesting
+  repo:              https://github.com/PAGiesting/PAGiesting.github.io
 
 # Gems
 gems:
@@ -32,7 +32,7 @@ gems:
   - jekyll-gist
 
 # Page List
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/index.html'
