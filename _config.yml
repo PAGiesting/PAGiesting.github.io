@@ -23,7 +23,7 @@ author:
 
 # Custom vars
 version:
-github:              https://github.com/PAGiesting
+#github:              PAGiesting
   repo:              https://github.com/PAGiesting/PAGiesting.github.io
 
 # Gems
