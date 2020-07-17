@@ -34,5 +34,6 @@ gems:
 # Page List
 pages_list:
   About: '/about'
+  Consulting: '/pagscienceservicesllc'
   Archive: '/archive'
   Feed: '/index.html'
