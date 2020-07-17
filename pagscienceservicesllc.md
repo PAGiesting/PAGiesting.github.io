@@ -2,20 +2,21 @@
 layout: page
 title: PAG Science Services LLC
 ---
+<img src="images/kilauea-lighthouse.png" width=500>
 
-# PAG Science Services LLC
-
-#### Intelligent answers to technical problems.
+### Intelligent answers to technical problems.
 
 ## Contact
+<img align="left" src="images/PAGlogo128.jpg" hspace=20>
+
 Principal
 Paul A. Giesting, PhD
 
 phone: +1 (574) 386-1482
 
-email: pagiesti@gmail.com
+[email](mailto:pagiesti@gmail.com)
 
-resume: <a href="https://resume.creddle.io/resume/4liirtvnf6z">current version</a>
+<a href="https://resume.creddle.io/resume/4liirtvnf6z">resume</a>
 
 ## Geological Consulting
 Previously doing business as PAG Geology LLC
@@ -32,6 +33,8 @@ Indiana Licensed Professional Geologist #2307
 #### Other Services
 * Root cause evaluations of slope instability
 * Evaluation of technical merits for metal deposit prospects
+
+<img src="images/mines-3997193_1280.jpg" width=500>
 
 ### Example Projects
 
@@ -54,3 +57,5 @@ Two neighbors in Honolulu were disputing their relative responsibility for maint
 #### Waikiki Landing, 2011-2012
 
 The Waikiki Landing project was a redevelopment project on State-owned land in and around Ala Wai Harbor (featured in the intro to Gilligan’s Island). This project involved completing partial environmental investigations, formulating and implementing a cleanup plan for historic petroleum contamination at the old fuel dock. Although the Waikiki Landing project was shelved due to a shift in State interest, the sites involved are now closed and ready for development.
+
+<img src="images/PAGlogo-banner.png" width=500>
