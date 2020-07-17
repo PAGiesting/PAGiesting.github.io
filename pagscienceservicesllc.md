@@ -2,12 +2,15 @@
 layout: page
 title: PAG Science Services LLC
 ---
-<img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/kilauea-lighthouse.png" width=500>
+<!--
+img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/kilauea-lighthouse.png" width=500-->
+![kilauea banner](images/kilauea-lighthouse.png)
 
 ### Intelligent answers to technical problems.
 
 ## Contact
-<img align="left" src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/PAGlogo128.jpg" hspace=20>
+<!--img align="left" src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/PAGlogo128.jpg" hspace=20-->
+![logo](images/PAGlogo128.jpg)
 
 Principal
 Paul A. Giesting, PhD
@@ -34,7 +37,8 @@ Indiana Licensed Professional Geologist #2307
 * Root cause evaluations of slope instability
 * Evaluation of technical merits for metal deposit prospects
 
-<img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/mines-3997193_1280.jpg" width=500>
+<!--img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/mines-3997193_1280.jpg" width=500-->
+![Central Asian mining site](images/mines-3997193_1280.jpg)
 
 ### Example Projects
 
@@ -58,4 +62,5 @@ Two neighbors in Honolulu were disputing their relative responsibility for maint
 
 The Waikiki Landing project was a redevelopment project on State-owned land in and around Ala Wai Harbor (featured in the intro to Gilligan’s Island). This project involved completing partial environmental investigations, formulating and implementing a cleanup plan for historic petroleum contamination at the old fuel dock. Although the Waikiki Landing project was shelved due to a shift in State interest, the sites involved are now closed and ready for development.
 
-<img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/PAGlogo-banner.png" width=500>
+<!--img src="https://raw.githubusercontent.com/PAGiesting/PAGiesting.github.io/master/images/PAGlogo-banner.png" width=500-->
+![logo banner](images/PAGlogo-banner.png)
