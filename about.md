@@ -10,6 +10,7 @@ I am a geoscientist, materials scientist, and data scientist. My professional in
 ## Blog and Podcast
 
 <a href="https://pagiesting.github.io">Dr. G's Blog</a>
+
 <a href="https://www.thatssosecondmillennium.net">That's So Second Millennium Podcast</a>
 
 ## Github
