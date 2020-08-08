@@ -9,7 +9,8 @@ I am a geoscientist, materials scientist, and data scientist. My professional in
 
 ## Blog and Podcast
 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="133570/"></script> <!-- end feedwind code --> 
+<a href="https://pagiesting.github.io">Dr. G's Blog</a>
+<a href="https://www.thatssosecondmillennium.net">That's So Second Millennium Podcast</a>
 
 ## Github
 
