@@ -9,12 +9,12 @@ Following on from last week's post, a brief update.
 
 Last week I showed you a very tidy little picture of three different linear expansion plots for different directions in feldspar:
 
-<img src="../images/albAmel.png" alt="Albite1"
+<img src="https://pagiesting.github.io/images/albAmel.png" alt="Albite1"
   title="Albite, tidy" width="450" height="300"/>  
 
 It's amazing what you can talk yourself into being true when it looks neat and tidy. Fortunately my pessimistic instincts (everything is handy for something, sometime) told me to plot ALL the data and see whether I thought I had the best files chosen, and I wound up with this instead:
 
-<img src="../images/albAmel2.png" alt="Albite2"
+<img src="https://pagiesting.github.io/images/albAmel2.png" alt="Albite2"
   title="Albite, messy" width="450" height="300"/>
 
 Although one can be TOO pessimistic. I've apparently lost a file somewhere, because none of the plots in this second figure matches the green trace in the first! But in any case, obviously there are issues here. You can check the <a href="https://github.com/PAGiesting/thermal-expansion/blob/master/plot_scratch.ipynb">workbook</a> where I made the first plot and see how I relentlessly forced data files into the slots 100, 010, and 001 if they weren't filled up by appropriately labeled files. I happened to get good-*looking* results and was willing to run with them for a day or two.
@@ -35,15 +35,15 @@ What's being plotted here is fractional increase in length with temperature. The
 
 You kind of want them to look like this (although that droop at the beginning is likely the sample / apparatus settling, not real and not desirable):
 
-<img src="../images/byto000sA1r2-16mm-102619c.png" alt="Good Bytownite" title="Good Bytownite" width="450" height="300"/>
+<img src="https://pagiesting.github.io/images/byto000sA1r2-16mm-102619c.png" alt="Good Bytownite" title="Good Bytownite" width="450" height="300"/>
 
 I don't so much trust them when they look like this:
 
-<img src="../images/byto000sB1r1-14c.png" alt="Bad Bytownite" title="Bad Bytownite" width="450" height="300"/>
+<img src="https://pagiesting.github.io/images/byto000sB1r1-14c.png" alt="Bad Bytownite" title="Bad Bytownite" width="450" height="300"/>
 
 And I'm not a fan of this:
 
-<img src="../images/moon0p2s2r2-15mm-102719c.png" alt="Horrid Moonstone" title="Horrid Moonstone" width="450" height="300"/>
+<img src="https://pagiesting.github.io/images/moon0p2s2r2-15mm-102719c.png" alt="Horrid Moonstone" title="Horrid Moonstone" width="450" height="300"/>
 
 More next time. I'm taking a week off and moving in a different direction going forward... probably a while before another thermal expansion post.
 
