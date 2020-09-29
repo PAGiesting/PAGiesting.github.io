@@ -13,7 +13,7 @@ Bring those two needs together and...
 
 <img src="https://pagiesting.github.io/images/playoff_predictions2020.png" alt="PlayoffWorkbook" title="Jupyter Lab playoff workbook" width="450" height="300"/>  
 
-I'm a bit proud of <a href="https://pagiesting.github.io/extra_data/Playoff2020.ipynb">the code</a>, although it could use, you know, any comments. That said, I pounded it out in about an hour and a half, as tired as I am, so there's only so much complexity in it.
+I'm a bit proud of <a href="https://github.com/PAGiesting/PAGiesting.github.io/blob/master/extra_data/Playoff2020.ipynb">the code</a>, although it could use, you know, any comments. That said, I pounded it out in about an hour and a half, as tired as I am, so there's only so much complexity in it.
 
 --PAG
 
