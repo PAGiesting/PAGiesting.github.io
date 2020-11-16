@@ -15,12 +15,11 @@ Basically, the goal was to go from simulated experimental data:
 <img src="https://pagiesting.github.io/images/coupled_echo.png" alt="complex NMR" title="NMR trace with spin coupling" width="600"/>
 
 to four material properties (alpha, xi, *p*, and *d*):
-<img src="https://pagiesting.github.io/images/latex_model_details.png" alt="Eq 1" title="spin equation"/>
-<img src="https://pagiesting.github.io/images/latex_model_details_decay.png" alt="Eq 2" title="decay equation"/>
+<img src="https://pagiesting.github.io/images/latex_model_details.png" alt="Eqns" title="spin equations"/>
 
 #### Wading In
 
-https://github.com/PAGiesting/ML4Sci-NMR
+<a href="https://github.com/PAGiesting/ML4Sci-NMR">GitHub repo for this project</a>
 
 I took a broad approach. I really wanted to look at this data from a variety of angles, and that led me to automated machine learning (AutoML). As chronicled in my GitHub repo, I first attacked the problem with <a href="https://www.automl.org/automl/auto-sklearn/">autosklearn</a>, figuring that probably did not have the juice to really address the problem, but curious to find out what methods it would churn out as the best. It wound up being fairly hard to install, did not do as good as job as I'd hoped automating the preprocessing of data (it seemed to insist on treating continuous input values as categorical) and the results were really volatile, with adaboost, random forests, the "passive aggressive" regressor, and KNN methods all sometimes coming to the top. And the fits were bad. Still, it's a tool I now know something about how to use for new problems.
 
